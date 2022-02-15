@@ -1,2 +1,2 @@
 # terraform_my_first
-this is the remo which i have created
+this is the reposiory which i have created
